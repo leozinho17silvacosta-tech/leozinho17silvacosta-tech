@@ -4,22 +4,31 @@
 
 I am a 22-year-old **Web Development student** from Tremembé, Brazil, currently living and studying in Vancouver, Canada. I'm passionate about building clean, efficient, and user-friendly web applications.
 
-### 📍 About Me
-* 🎓 Currently studying Web Development at **Cornerstone International Community College of Canada (CICCC)** in British Columbia.
-* 🇧🇷 Born and raised in Tremembé, São Paulo, Brazil.
-* 🇨🇦 Living the tech journey in Canada.
-* ⚡ I love transforming ideas into code and constantly learning new frameworks and tools.
-* ⚽ Soccer is my passion.
+### 📍 | About Me
+* Currently studying Web Development at **Cornerstone International Community College of Canada (CICCC)** in British Columbia.
+* Born and raised in Tremembé, São Paulo, Brazil.
+* Living the tech journey in Canada.
+* I love transforming ideas into code and constantly learning new frameworks and tools.
+* Soccer is my passion.
 
-### 🛠️ Tech Stack
+### 🛠️ | Tech Stack
 * **Frontend:** HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS
 * **Backend & Databases:** Node.js, PostgreSQL, MongoDB, Prisma, Neon
 * **Design & Tools:** Figma, Git, GitHub, Vercel
 
 ### 📫 Connect with me
-* 💼 LinkedIn: [https://www.linkedin.com/in/leonardo-da-silva-duarte-costa/]
-* 📸 Instagram: [https://www.instagram.com/leozinn04/]
-* 📧 Email: [leonardo.duartecosta@outlook.com]
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/leonardo-da-silva-duarte-costa/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/leozinn04/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:leonardo.duartecosta@outlook.com">
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+    </a>
+</p>
 
 <p align="left">
     <a href="https://github.com/SEU_USER_DO_GITHUB?tab=repositories&sort=stargazers">
@@ -37,8 +46,6 @@ I am a 22-year-old **Web Development student** from Tremembé, Brazil, currently
         />
     </a>
 </p>
-
----
 
 ### 🤖 Languages and Technologies
 
