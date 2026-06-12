@@ -1,6 +1,10 @@
 # 👨🏽‍💻 Leonardo Costa
 
-**`FullStack Developer`**
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=435&lines=FullStack+Developer;Web+Development+Student" alt="Typing SVG" />
+  </a>
+</p>
 
 I am a 22-year-old **Web Development student** from Tremembé, Brazil, currently living and studying in Vancouver, Canada. I'm passionate about building clean, efficient, and user-friendly web applications.
 
@@ -171,6 +175,14 @@ I am a 22-year-old **Web Development student** from Tremembé, Brazil, currently
       align="left" 
       alt="GitHub Top Langs" 
       height="200" 
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinho17silvacosta-tech&theme=tokyonight&layout=compact&custom_title=Top+Technologies&langs_count=7" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Streak" 
+      height="200" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=leozinho17silvacosta-tech&theme=tokyonight" 
   />
 </p>
