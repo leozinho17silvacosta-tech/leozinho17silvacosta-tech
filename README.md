@@ -4,19 +4,19 @@
 
 I am a 22-year-old **Web Development student** from Tremembé, Brazil, currently living and studying in Vancouver, Canada. I'm passionate about building clean, efficient, and user-friendly web applications.
 
-### 📍 | About Me
+### 📍 | ABOUT ME
 * Currently studying Web Development at **Cornerstone International Community College of Canada (CICCC)** in British Columbia.
 * Born and raised in Tremembé, São Paulo, Brazil.
 * Living the tech journey in Canada.
 * I love transforming ideas into code and constantly learning new frameworks and tools.
 * Soccer is my passion.
 
-### 🛠️ | Tech Stack
+### 🛠️ | TECH STACK
 * **Frontend:** HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS
 * **Backend & Databases:** Node.js, PostgreSQL, MongoDB, Prisma, Neon
 * **Design & Tools:** Figma, Git, GitHub, Vercel
 
-### 📫 Connect with me
+### 📫 | CONNECT WITH ME
 
 <p align="left">
     <a href="https://www.linkedin.com/in/leonardo-da-silva-duarte-costa/" target="_blank">
@@ -27,23 +27,6 @@ I am a 22-year-old **Web Development student** from Tremembé, Brazil, currently
     </a>
     <a href="mailto:leonardo.duartecosta@outlook.com">
         <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://github.com/SEU_USER_DO_GITHUB?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USER_DO_GITHUB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SEU_USER_DO_GITHUB?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USER_DO_GITHUB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
     </a>
 </p>
 
