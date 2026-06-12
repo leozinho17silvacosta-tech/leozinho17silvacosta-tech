@@ -164,13 +164,13 @@ I am a 22-year-old **Web Development student** from Tremembé, Brazil, currently
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USER_DO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=leozinho17silvacosta-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
   <img 
       align="left" 
       alt="GitHub Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_DO_GITHUB&theme=tokyonight&layout=compact&custom_title=Top+Technologies&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinho17silvacosta-tech&theme=tokyonight&layout=compact&custom_title=Top+Technologies&langs_count=7" 
   />
 </p>
