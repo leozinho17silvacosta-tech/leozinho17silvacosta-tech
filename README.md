@@ -8,181 +8,86 @@
 
 I am a 22-year-old **Web Development student** from Tremembé, Brazil, currently living and studying in Vancouver, Canada. I'm passionate about building clean, efficient, and user-friendly web applications.
 
+<img src="https://i.imgur.com/8Qj9j8W.png" width="100%" height="2px"/>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="55%" valign="top">
+
 ### 📍 | ABOUT ME
-* Currently studying Web Development at **Cornerstone International Community College of Canada (CICCC)** in British Columbia.
-* Born and raised in Tremembé, São Paulo, Brazil.
-* Living the tech journey in Canada.
-* I love transforming ideas into code and constantly learning new frameworks and tools.
-* Soccer is my passion.
+* 🎓 Currently studying Web Development at **Cornerstone International Community College of Canada (CICCC)**.
+* 🇧🇷 Born and raised in Tremembé, São Paulo, Brazil.
+* 🇨🇦 Living the tech journey in Canada.
+* ⚡ I love transforming ideas into code and constantly learning.
+* ⚽ Soccer is my passion.
+
+</td>
+<td width="45%" valign="top" align="center">
 
 ### 🛠️ | TECH STACK
-* **Frontend:** HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS
-* **Backend & Databases:** Node.js, PostgreSQL, MongoDB, Prisma, Neon
-* **Design & Tools:** Figma, Git, GitHub, Vercel
+
+<table border="0">
+  <tr>
+    <td align="center"><img src="https://i.imgur.com/rN9S2sQ.png" width="40px"/><br><sub>Frontend</sub></td>
+    <td align="center"><img src="https://i.imgur.com/A6jA9kS.png" width="40px"/><br><sub>Backend</sub></td>
+    <td align="center"><img src="https://i.imgur.com/E8W8YxU.png" width="40px"/><br><sub>Design</sub></td>
+  </tr>
+</table>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" title="Tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<img src="https://i.imgur.com/8Qj9j8W.png" width="100%" height="2px"/>
 
 ### 📫 | CONNECT WITH ME
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/leonardo-da-silva-duarte-costa/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/leozinn04/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:leonardo.duartecosta@outlook.com">
-        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-    </a>
+  <a href="https://www.linkedin.com/in/leonardo-da-silva-duarte-costa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/leozinn04/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:leonardo.duartecosta@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-### 🤖 Languages and Technologies
+<img src="https://i.imgur.com/8Qj9j8W.png" width="100%" height="2px"/>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Astro" 
-    title="Astro"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Prisma" 
-    title="Prisma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+### ⚡ | INTERACTIVE DASHBOARD
 
-<br/>
-<br/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="33%" align="center">
 
-### 📊 My Stats
+<a href="https://github.com/leozinho17silvacosta-tech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leozinho17silvacosta-tech&show_icons=true&theme=tokyonight&count_private=true&title_color=39D353&text_color=FFFFFF&icon_color=39D353" width="100%"/>
+</a>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leozinho17silvacosta-tech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
+</td>
+<td width="33%" align="center">
 
-  <img 
-      align="left" 
-      alt="GitHub Top Langs" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinho17silvacosta-tech&theme=tokyonight&layout=compact&custom_title=Top+Technologies&langs_count=7" 
-  />
+<a href="https://github.com/leozinho17silvacosta-tech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinho17silvacosta-tech&theme=tokyonight&layout=compact&title_color=39D353&text_color=FFFFFF&custom_title=Top+Langs" width="100%"/>
+</a>
 
-  <img 
-      align="left" 
-      alt="GitHub Streak" 
-      height="200" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=leozinho17silvacosta-tech&theme=tokyonight" 
-  />
-</p>
+</td>
+<td width="33%" align="center">
+
+<a href="https://github.com/leozinho17silvacosta-tech">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leozinho17silvacosta-tech&theme=tokyonight&fire=orange&border=39D353" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
