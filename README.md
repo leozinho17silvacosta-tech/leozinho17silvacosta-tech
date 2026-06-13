@@ -12,9 +12,8 @@
   I'm a 22-year-old developer from Brazil, currently living and studying in Vancouver, Canada.
 </p>
 
----
+<br />
 
-<!-- GREEN SECTION TITLE STYLE -->
 <h2 align="center" style="color:#39D353;">📍 ABOUT ME</h2>
 
 <ul>
@@ -26,7 +25,7 @@
   <li>🎮 Gaming enthusiast — Counter-Strike is my favorite game</li>
 </ul>
 
----
+<br />
 
 <h2 align="center" style="color:#39D353;">🛠️ TECH STACK</h2>
 
@@ -43,19 +42,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
----
+<br />
 
 <h2 align="center" style="color:#39D353;">📫 CONNECT WITH ME</h2>
-<p align="center">
-  <img src="https://via.placeholder.com/400x3/39D353/39D353" />
-</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-da-silva-duarte-costa/">
+  <a href="https://www.linkedin.com/in/leonardo-da-silva-duarte-costa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/leozinn04/">
+  <a href="https://www.instagram.com/leozinn04/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-39D353?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
@@ -64,12 +60,9 @@
   </a>
 </p>
 
----
+<br />
 
 <h2 align="center" style="color:#39D353;">⚡ GITHUB STATS</h2>
-<p align="center">
-  <img src="https://via.placeholder.com/450x3/39D353/39D353" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leozinho17silvacosta-tech&show_icons=true&theme=tokyonight" height="180"/>
