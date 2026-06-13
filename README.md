@@ -16,9 +16,6 @@
 
 <!-- GREEN SECTION TITLE STYLE -->
 <h2 align="center" style="color:#39D353;">📍 ABOUT ME</h2>
-<p align="center">
-  <img src="https://via.placeholder.com/300x3/39D353/39D353" />
-</p>
 
 <ul>
   <li>🌎 Born and raised in Tremembé, São Paulo, Brazil</li>
@@ -32,9 +29,6 @@
 ---
 
 <h2 align="center" style="color:#39D353;">🛠️ TECH STACK</h2>
-<p align="center">
-  <img src="https://via.placeholder.com/500x3/39D353/39D353" />
-</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
