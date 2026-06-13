@@ -22,6 +22,7 @@
 * 💻 Passionate about building modern and user-friendly web applications
 * 🚀 Constantly learning new technologies and improving my development skills
 * ⚽ Soccer is my passion
+* 🎮 Gaming enthusiast | Counter-Strike has been my favorite game for years
 
 ---
 
@@ -83,7 +84,7 @@
 * 🎯 Secure a Web Development Co-op position in Canada
 * 🌐 Build high-quality full stack applications
 * 📚 Master modern technologies and best practices
-* 💼 Start my professional career as a Software Developer
+* 💼 Combine my passions for football and technology in my professional career.
 
 ---
 
