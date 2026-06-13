@@ -12,7 +12,9 @@
   I'm a 22-year-old developer from Brazil, currently living and studying in Vancouver, Canada.
 </p>
 
-<br />
+<p align="center">
+  <img src="https://via.placeholder.com/600x2/39D353/39D353" alt="divider" />
+</p>
 
 <h2 align="center" style="color:#39D353;">📍 ABOUT ME</h2>
 
@@ -25,7 +27,9 @@
   <li>🎮 Gaming enthusiast — Counter-Strike is my favorite game</li>
 </ul>
 
-<br />
+<p align="center">
+  <img src="https://via.placeholder.com/600x2/39D353/39D353" alt="divider" />
+</p>
 
 <h2 align="center" style="color:#39D353;">🛠️ TECH STACK</h2>
 
@@ -42,7 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
-<br />
+<p align="center">
+  <img src="https://via.placeholder.com/600x2/39D353/39D353" alt="divider" />
+</p>
 
 <h2 align="center" style="color:#39D353;">📫 CONNECT WITH ME</h2>
 
@@ -60,7 +66,9 @@
   </a>
 </p>
 
-<br />
+<p align="center">
+  <img src="https://via.placeholder.com/600x2/39D353/39D353" alt="divider" />
+</p>
 
 <h2 align="center" style="color:#39D353;">⚡ GITHUB STATS</h2>
 
