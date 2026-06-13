@@ -17,11 +17,11 @@ I'm passionate about building clean, efficient, and user-friendly web applicatio
     <td>
       <h3>📍 | ABOUT ME</h3>
       <ul>
-        <li style="none"> ∎ Currently studying Web Development at <b>Cornerstone International Community College of Canada (CICCC)</b>.</li>
-        <li> ∎ Born and raised in Tremembé, São Paulo, Brazil.</li>
-        <li> Living the tech journey in Canada.</li>
-        <li> I love transforming ideas into code and constantly learning new frameworks.</li>
-        <li> Soccer is my passion.</li>
+        ∎ Currently studying Web Development at <b>Cornerstone International Community College of Canada (CICCC)</b>.</li>
+        ∎ Born and raised in Tremembé, São Paulo, Brazil.</li>
+        ∎ Living the tech journey in Canada.</li>
+        ∎ I love transforming ideas into code and constantly learning new frameworks.</li>
+        ∎ Soccer is my passion.</li>
       </ul>
     </td>
   </tr>
