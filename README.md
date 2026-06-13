@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I am a 22 years old **Web Development student** from Tremembé, Brazil, currently living and studying in Vancouver, Canada. 
+I am a 22 years old **Web Development** student from Tremembé, Brazil, currently living and studying in Vancouver, Canada. 
 
 I'm passionate about building clean, efficient, and user-friendly web applications.
 
@@ -15,7 +15,7 @@ I'm passionate about building clean, efficient, and user-friendly web applicatio
 <table width="100%" cellpadding="10" cellspacing="0" border="0">
   <tr bgcolor="#1a1b26">
     <td>
-      <h3>📍 | ABOUT ME</h3>
+      <h3 style="text-center">📍 | ABOUT ME</h3>
       <ul>
         <li> Currently studying Web Development at <b>Cornerstone International Community College of Canada (CICCC)</b>.</li>
         <li> Born and raised in Tremembé, São Paulo, Brazil.</li>
