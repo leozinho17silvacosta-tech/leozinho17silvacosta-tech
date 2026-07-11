@@ -68,10 +68,7 @@
 
 <h2 align="center">⚡ GITHUB ANALYTICS</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leozinho17silvacosta-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinho17silvacosta-tech&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leozinho17silvacosta-tech&theme=tokyonight&hide_border=true" />
